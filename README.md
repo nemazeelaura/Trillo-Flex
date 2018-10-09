@@ -1,2 +1,2 @@
-Flexbox and advanced css and sass practice
+Flexbox advanced css and sass practice
 
